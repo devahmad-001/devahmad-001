@@ -6,10 +6,10 @@
 ### <div align="center">Passionate MERN STACK Developer 👨‍💻 | Building Scalable Solutions | Crafting Digital Experiences🚀</div>  
   
 
-- 🔭 I’m currently working on [Devontix Solutions](https://github.com/rishavanand/github-profilinator)  
+- 🔭 currently working on: [Devontix Solutions](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently working on NEXT JS   
+- 🌱 currently working as Mern stack developer  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

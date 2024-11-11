@@ -6,7 +6,7 @@
 ### <div align="center">Passionate MERN STACK Developer 👨‍💻 | Building Scalable Solutions | Crafting Digital Experiences🚀</div>  
   
 
-- 🔭 currently working on: [Devontix Solutions](https://github.com/rishavanand/github-profilinator)  
+- 🔭 worked on: [Devontix Solutions](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 currently working as Mern stack developer  
